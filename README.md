@@ -61,5 +61,8 @@ void loop()
 ![WhatsApp Image 2022-06-05 at 17 23 50](https://user-images.githubusercontent.com/98150341/172055307-ed04e63c-e1c8-4e32-a103-be7c5a0b2a0d.jpeg)
 
 ### Sonuç
-Gerek hobi olarak, gerek bir gereksinim olarak kullanabileceğiniz bu sistemi umarım kullanışlı bulursunuz.
+Gerek hobi olarak, gerek bir gereksinim olarak kullanabileceğiniz bu sistemi umarım kullanışlı bulursunuz. Proje dosyalarına aşağıdaki linkten ulaşabilirsiniz.
+
+https://drive.google.com/drive/folders/1lpJJeIzKixug6bnityD9-B0ToD23CLA6?usp=sharing
+
 
